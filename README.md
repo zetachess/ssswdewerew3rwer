@@ -1,3 +1,1 @@
-# Info64 Torneos
-
-Frontend público y aislado para consultar torneos Info64.
+@C:\Users\ZETA\Documents\Codex\2026-07-23\nec\work\info64-only\frontend\README.md

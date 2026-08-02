@@ -1,0 +1,1 @@
+@C:\Users\ZETA\Documents\Codex\2026-07-23\nec\work\info64-only\frontend\src\pages\Tournaments\EloTicker.tsx
